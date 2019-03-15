@@ -7,4 +7,4 @@ This python script relays sensor values of a bno055 connected to a raspberry pi 
   install with ~pip3 install python-osc~ may need the ~--user~ option
 - python bno055 library "
   install with ~pip3 install adafruit-circuitpython-bno055~ may need ~--user~ option
-/ to start on boot add ~sudo -H -u pi python3 /home/pi/magneticdance/bnoTest.py &~ to ~/etc/rc.local~ just before ~exit 0~
+/to start on boot add ~sudo -H -u pi python3 /home/pi/magneticdance/bnoTest.py &~ to ~/etc/rc.local~ just before ~exit 0~/
